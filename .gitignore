@@ -1,0 +1,12 @@
+# python
+__pycache__/
+*.pyc
+venv/
+.env
+#Sistema
+.Ds_Store
+*.log
+#Nunca Subir llave privadas
+*.pem
+id_rsa
+id_ed25519
